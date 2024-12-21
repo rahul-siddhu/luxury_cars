@@ -1,3 +1,4 @@
+### The project is not deployed please run it on your local machine it will take 2 mins
 ## Running the project in your local machine
 1. Install IntelliJ IDE
 2. Create a database named car_inventory in your mysql workbench
